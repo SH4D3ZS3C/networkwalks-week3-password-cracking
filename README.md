@@ -2,11 +2,11 @@
 
 **Password Cracking with John the Ripper & Networkwalks Tools**
 
+![Networkwalks Week 3 — Tokyo Night Banner](tokyo-night-banner.png)
 ![Platform](https://img.shields.io/badge/Platform-Ryoku_Linux-7aa2f7?style=for-the-badge)
 ![Batch](https://img.shields.io/badge/Batch-B084-bb9af7?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-9ece6a?style=for-the-badge)
 ![Theme](https://img.shields.io/badge/Theme-Tokyo_Night-1a1b26?style=for-the-badge)
-![Networkwalks Week 3 — Tokyo Night Banner](tokyo-night-banner.png)
 
 ---
 
